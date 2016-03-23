@@ -6,6 +6,8 @@ public class TTT {
 
 System.out.println("什么玩意啊 对对对444444444444444");
 
+System.out.println("哈哈 就这样吧");
+
 	}
 
 }
